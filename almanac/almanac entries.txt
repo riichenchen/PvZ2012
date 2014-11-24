@@ -1,0 +1,63 @@
+Normal Zombie:
+Regular-Garden variety Zombie
+Toughness: Low
+Normal Zombie's name is a misnomer. I mean, he's a zombie. How in the world can a zombie be normal?
+
+Flag Zombie:
+Appears at the beginning of a wave of Zombies
+Toughness: Low
+Flag Zombie is a man to be proud of. He fearlessly leads his comrades to protect the lives of all zombies. Wait a second...lives?
+
+Conehead Zombie:
+He's tough. Having a cone on your head makes you tough.
+Toughness: Medium
+Conehead Zombie was just like any other zombie. But something compelled him to pick up a traffic cone and jam it on his head.
+
+Buckethead Zombie:
+Now that's called fashion.
+Toughness: High
+Buckethead Zombie didn't believe that buckets really prevent cats from eating their tails. His experiment failed to either prove or disprove his case.
+
+Football Zombie:
+No stereotypes implied.
+Toughness: Very high
+Speed: Fast
+Football Zombie trains day and night to curbstomp his opponents on the field. So why can't he stomp through a garden of plants? He's an idiot.
+
+Manga-Reading Zombie:
+Newspaper Zombie's secret is that her newspaper is actually a manga book wrapped to keep nosy parents away.
+Toughness: Low
+Book Toughness: Low
+Speed: Slow, then fast
+Don't mess with obsessors. They just may become obsessed with eating brains.
+
+Hungry Zombie:
+The fridge is empty. Actually, the entire kitchen is empty.
+Toughness: High
+Specialty: Eats projectiles fired at him.
+Hungry Zombie only leaves the kitchen when the food runs out. And he is hungry. Nothing is safe. His weakness? He can't eat spicy food.
+
+Door Zombie:
+A door, reincarnated as a zombie.
+Toughness: High
+Specialty: Slides and flattens plants
+The door made two too many enemies in its lifetime. Those two enemies promptly hunted him down; he was pretty smart to have survived.
+
+Yu Qi:
+No information available.
+Toughness: ???
+Specialty: ???
+...Maybe zombies CAN be normal...
+
+Babysitter Zombie:
+Babysitter Zombie's on the job!
+Toughness: Low
+Specialty: Summons kids to the yard.
+Babysitter Zombie loves kids. Cute kids, ugly kids, happy kids, sad kids; Babysitter Zombie loves them all. So why is she bringing them to a battlefield? Who knows?
+
+Kid Zombie:
+Appear when Babysitter Zombie calls
+Toughness: Low
+Kid Zombie's still a kid. He may not grow anymore, but he still needs to eat. And with the Hungry Zombie around, that's not happening at home.
+
+aaa
